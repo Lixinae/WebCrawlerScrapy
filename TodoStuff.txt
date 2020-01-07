@@ -7,3 +7,6 @@ Todo :
 
 Passage des paramètres a une spider via le script principal
 https://stackoverflow.com/questions/36689190/how-to-pass-parameters-to-scrapy-spiders-in-program
+
+Tutotrial :
+https://towardsdatascience.com/scrape-multiple-pages-with-scrapy-ea8edfa4318
