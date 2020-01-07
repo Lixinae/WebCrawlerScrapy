@@ -1,0 +1,9 @@
+
+Scrap a website with scrapy simple example :
+https://stackoverflow.com/questions/15500281/how-to-crawl-an-entire-website-with-scrapy
+
+Todo :
+-> Faire en sorte d'utiliser ça et l'appliquer pour avoir quelque chose de ressemblant au crawler sans scrapy
+
+Passage des paramètres a une spider via le script principal
+https://stackoverflow.com/questions/36689190/how-to-pass-parameters-to-scrapy-spiders-in-program
